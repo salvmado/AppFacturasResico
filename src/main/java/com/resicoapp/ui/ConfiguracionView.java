@@ -1,6 +1,5 @@
 package com.resicoapp.ui;
 
-import com.resicoapp.data.ContribuyenteDAO;
 import com.resicoapp.model.Contribuyente;
 import com.resicoapp.service.ContribuyenteService;
 import javafx.geometry.Insets; // Para dar "aire" o margen a los bordes
